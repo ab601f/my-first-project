@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import Content from './components/Content'
-import Logout from './components/Logout'
-import Scroll from './components/Scroll'
-import Sidebar from './components/Sidebar'
+import Content from './component/Content'
+import Logout from './component/Logout'
+import Scroll from './component/Scroll'
+import Sidebar from './component/Sidebar'
 import './App.css';
 
 class App extends Component {
